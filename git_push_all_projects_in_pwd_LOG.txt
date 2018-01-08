@@ -34,3 +34,7 @@
  1 file changed, 4 insertions(+)
 /g/[important]MyCode/rocksdb-master
 2018年01月 8日 10:46:00
+[master 4adeba4e] update
+ 1 file changed, 4 insertions(+)
+/g/[important]MyCode/rocksdb-master
+2018年01月 8日 19:13:14
